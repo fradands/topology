@@ -218,8 +218,8 @@
             new l((function(t) {
                 let i = e.width,
                     o = e.height,
-                    n = (i + 200) / 10,
-                    r = (o + 200) / 10,
+                    n = (i + 100) / 10,
+                    r = (o + 100) / 10,
                     h = [],
                     a = [],
                     c = 0;
